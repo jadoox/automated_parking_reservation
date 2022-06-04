@@ -1,0 +1,4 @@
+*.txt
+*.sh
+*.ini
+venv/
